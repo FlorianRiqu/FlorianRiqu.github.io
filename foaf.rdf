@@ -3,7 +3,7 @@
 
   <foaf:Person rdf:about="#me">
     <foaf:name>Riquier Florian</foaf:name>
-    <foaf:homepage rdf:resource="URL_de_votre_page_de_présentation"/>
+    <foaf:homepage rdf:resource="https://florianriqu.github.io/"/>
     <foaf:mbox rdf:resource="florian.riquier@etudiant.univ-lr.fr"/>
   </foaf:Person>
 
